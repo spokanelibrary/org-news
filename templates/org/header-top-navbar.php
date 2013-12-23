@@ -46,11 +46,11 @@
         <span class="text-hide"><?php bloginfo('name'); ?></span>
       </a>
     </div>
-    <div class="serif" style="">
+    <div class="serif" style="padding-top:10px;">
       <em class="text-primary">
-      <span style="font-size:40px; line-height:40px; margin:0; padding:0; padding-left:30px;">News &amp; Ideas</span>
+      <span style="font-size:35px; line-height:35px; margin:0; padding:0; padding-left:30px;">News &amp; Ideas</span>
       <br>
-      <span style="font-size:30px; line-height:30px; margin:0; padding:0;  padding-left:30px; margin:0;">from your library</span>
+      <span style="font-size:20px; line-height:25px; margin:0; padding:0;  padding-left:30px; margin:0;">from your library</span>
       </em>
     </div>
   </div>
