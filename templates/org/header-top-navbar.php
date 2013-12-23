@@ -46,9 +46,10 @@
         <span class="text-hide"><?php bloginfo('name'); ?></span>
       </a>
     </div>
-    <div class="serif pull-right" style="padding-left:30px; color:#fff;">
-      <em class="">
-      <span style="font-size:60px;">Newsletter</em>
+    <div class="serif" style="">
+      <em class="text-primary">
+      <span style="font-size:60px; padding-left:30px;">Newsletter</span>
+      </em>
     </div>
   </div>
 </header><!-- /.navbar -->
