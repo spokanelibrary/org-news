@@ -47,8 +47,8 @@
       </a>
     </div>
     <div class="serif" style="padding-top:10px;">
-      <em class="text-primary">
-      <span style="font-size:35px; line-height:35px; margin:0; padding:0; padding-left:30px;">News &amp; Ideas</span>
+      <em class="text-primary" style="color:#fff;">
+      <span style="font-size:30px; line-height:35px; margin:0; padding:0; padding-left:30px;">News</span>
       <br>
       <span style="font-size:20px; line-height:25px; margin:0; padding:0;  padding-left:30px; margin:0;">from your library</span>
       </em>
