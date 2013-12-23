@@ -42,7 +42,7 @@
 <header class="navbar-masthead banner navbar navbar-inverse navbar-static-top visible-md visible-lg" role="banner">
   <div class="container">
     <div class="navbar-header">
-      <a class="navbar-brand" href="<?php echo home_url(); ?>/">
+      <a class="navbar-brand" href="http://www.spokanelibrary.org/">
         <span class="text-hide"><?php bloginfo('name'); ?></span>
       </a>
     </div>
