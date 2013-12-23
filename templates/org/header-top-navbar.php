@@ -46,6 +46,13 @@
         <span class="text-hide"><?php bloginfo('name'); ?></span>
       </a>
     </div>
+    <div class="pull-right" style="width: 300px; padding-top:10px;">
+      <em class="text-primary serif">
+      <span style="font-size:1.25em;">News &amp; Ideas</em>
+      </em>
+      <br>
+      <small class="serif">from your library</small>
+    </div>
   </div>
 </header><!-- /.navbar -->
 
