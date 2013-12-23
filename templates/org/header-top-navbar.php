@@ -51,7 +51,7 @@
       <span style="font-size:1.25em;">News &amp; Ideas</em>
       </em>
       <br>
-      <small class="">from your library</small>
+      <span class="">from your library</span>
     </div>
   </div>
 </header><!-- /.navbar -->
