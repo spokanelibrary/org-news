@@ -46,7 +46,7 @@
         <span class="text-hide"><?php bloginfo('name'); ?></span>
       </a>
     </div>
-    <div class="pull-right" style="width:40px; padding-top:10px;">
+    <div class="pull-right" style="width:400px; padding-top:10px;">
       <em class="serif text-primary" style="color:#fff;">
       <span style="font-size:40px; line-height:40px; margin:0; padding:0; padding-left:30px;">News!</span>
       <br>
