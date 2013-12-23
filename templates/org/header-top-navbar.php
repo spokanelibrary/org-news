@@ -49,7 +49,7 @@
     
     <div class="pull-right" style="padding-top:10px;">
       <em class="serif text-primary" style="color:#fff;">
-      <span style="font-size:40px; line-height:40px; margin:0; padding:0; padding-left:30px;">News <small>from your library</small></span>
+      <span style="font-size:60px; line-height:60px; margin:0; padding:0; padding-left:30px;"><strong>News</strong> from your library</span>
       <br>
        </em>
     </div>
