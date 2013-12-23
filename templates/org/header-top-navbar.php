@@ -48,7 +48,7 @@
     </div>
     <div class="serif" style="padding-top:10px; padding-left:30px; color:#fff;">
       <em class="">
-      <span style="font-size:2.25em;">News &amp; Ideas</em>
+      <span style="font-size:30px;">News &amp; Ideas</em>
     </div>
   </div>
 </header><!-- /.navbar -->
