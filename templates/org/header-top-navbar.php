@@ -48,7 +48,7 @@
     </div>
     <div class="serif" style="">
       <em class="text-primary">
-      <span style="font-size:60px; padding-left:30px; color:#fff;">Newsletter</span>
+      <span style="font-size:60px; padding-left:30px;">News &amp; Ideas</span>
       </em>
     </div>
   </div>
