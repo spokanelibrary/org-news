@@ -46,13 +46,6 @@
         <span class="text-hide"><?php bloginfo('name'); ?></span>
       </a>
     </div>
-    <div class="pull-right" style="width: 300px; padding-top:10px;">
-      <em class="text-primary serif">
-      <span style="font-size:1.25em;">&ldquo;</span>My best friend is a person who will give me a book I have not read.<span style="font-size:1.25em;">&rdquo;</em>
-      </em>
-      <br>
-      <small class="text-muted pull-right">&ndash; Abraham Lincoln</small>
-    </div>
   </div>
 </header><!-- /.navbar -->
 
@@ -66,8 +59,7 @@
         <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand hidden-md hidden-lg" href="<?php echo home_url(); ?>/">
-        <span class="logotype hidden-sm">SPL Foundation</span>
-        <span class="logotype hidden-xs"><?php bloginfo('name'); ?></span>
+        <span class="logotype hidden-md"><?php bloginfo('name'); ?></span>
       </a>
     </div>
     <nav class="collapse navbar-collapse" role="navigation">
