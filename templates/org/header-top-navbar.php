@@ -46,12 +46,9 @@
         <span class="text-hide"><?php bloginfo('name'); ?></span>
       </a>
     </div>
-    <div class="serif" style="width: 320px; padding-top:30px; color:#fff;">
+    <div class="serif" style="padding-top:10px; padding-left:30px; color:#fff;">
       <em class="">
-      <span style="font-size:1.25em;">News &amp; Ideas</em>
-      </em>
-      <br>
-      <span class="">from your library</span>
+      <span style="font-size:2.25em;">News &amp; Ideas</em>
     </div>
   </div>
 </header><!-- /.navbar -->
