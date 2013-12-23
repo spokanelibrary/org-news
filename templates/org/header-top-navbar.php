@@ -46,9 +46,9 @@
         <span class="text-hide"><?php bloginfo('name'); ?></span>
       </a>
     </div>
-    <div class="serif" style="padding-top:10px; padding-left:30px; color:#fff;">
+    <div class="serif" style="padding-top:10px; margin-left:30px; color:#fff;">
       <em class="">
-      <span style="font-size:30px;">News &amp; Ideas</em>
+      <span style="font-size:50px;">News &amp; Ideas</em>
     </div>
   </div>
 </header><!-- /.navbar -->
