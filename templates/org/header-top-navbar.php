@@ -48,7 +48,7 @@
     </div>
     
     <div class="" style="padding-top:20px;">
-      <em class="serif text-primary" style="color: rgb(240,240,240);">
+      <em class="serif text-primary" style="color: #fff;">
       <span style="font-weight:normal; font-size:50px; line-height:50px; margin:0; padding:0; padding-left:30px;">News from your library</span>
       <br>
        </em>
