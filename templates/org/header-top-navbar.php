@@ -48,9 +48,9 @@
     </div>
     <div class="serif" style="">
       <em class="text-primary">
-      <span style="font-size:30px; padding-left:30px;">News &amp; Ideas</span>
+      <span style="font-size:30px; padding-left:30px; margin:0;">News &amp; Ideas</span>
       <br>
-      <span style="font-size:20px; padding-left:30px;">from your library</span>
+      <span style="font-size:20px; padding-left:30px; margin:0;">from your library</span>
       </em>
     </div>
   </div>
