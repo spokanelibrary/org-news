@@ -46,13 +46,15 @@
         <span class="text-hide"><?php bloginfo('name'); ?></span>
       </a>
     </div>
-    <div class="pull-right" style="width:400px; padding-top:10px;">
+    <!--
+    <div class="pull-right" style="padding-top:10px;">
       <em class="serif text-primary" style="color:#fff;">
       <span style="font-size:40px; line-height:40px; margin:0; padding:0; padding-left:30px;">News!</span>
       <br>
       <span style="font-size:16px; line-height:16px; margin:0; padding:0;  padding-left:30px; margin:0;">from your library</span>
       </em>
     </div>
+    -->
   </div>
 </header><!-- /.navbar -->
 
