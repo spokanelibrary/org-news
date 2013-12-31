@@ -20,7 +20,7 @@ var org = {
 	} // init()
 
 , initMailgun: function() {
-		$form = $('form.spl-news');
+		$form = $('form.spl-mailgun');
 		$form.validate();		
 		console.log($form);
 		//$form.validate();
