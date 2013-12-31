@@ -30,10 +30,9 @@ var ORG = {
         */
       });
 
-      // ToDo: move validate to plugins?
       Modernizr.load([
         {
-          load: [config.path.absolute+'/assets/js/vendor/jquery.validate.js' ],
+          load: [config.path.absolute+'/assets/js/org/news.js' ],
           complete: function () {
             if ( org ) { 
               org.init();
@@ -41,6 +40,7 @@ var ORG = {
           }
         }
       ]);
+      
 
     },
     finalize: function() {
