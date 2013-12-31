@@ -29,7 +29,7 @@ var ORG = {
         }
         */
       });
-
+      /*
       Modernizr.load([
         {
           load: [config.path.absolute+'/assets/js/org/mailgun.js' ],
@@ -40,7 +40,7 @@ var ORG = {
           }
         }
       ]);
-      
+      */
 
     },
     finalize: function() {
