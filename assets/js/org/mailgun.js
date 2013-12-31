@@ -13,7 +13,7 @@ var org = {
 	// called on script load
 	,init: function() {
 		_self = this;
-
+		console.log('test');
 		// init ui
 		this.initMailgun();
 
@@ -28,3 +28,4 @@ var org = {
   } // initValues()
 
 };
+
