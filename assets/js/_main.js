@@ -1,7 +1,7 @@
 // Global configuration
 var config = { 
       path: {
-              absolute: 'http://beta.spokanelibraryfoundation.org'
+              absolute: 'http://news.spokanelibrary.org'
     }
 }
 
@@ -30,6 +30,18 @@ var ORG = {
         */
       });
 
+      // ToDo: move validate to plugins?
+      Modernizr.load([
+        {
+          load: [config.path.absolute+'/assets/js/vendor/jquery.validate.js' ],
+          complete: function () {
+            if ( org ) { 
+              org.init();
+            } 
+          }
+        }
+      ]);
+
     },
     finalize: function() {
     }
@@ -39,25 +51,7 @@ var ORG = {
       //console.log(config);
     }
   }
-, donate : {
-    
-    init: function() {
 
-      Modernizr.load([
-        {
-          load: [config.path.absolute+'/assets/js/org/donate.js' ],
-          complete: function () {
-            if ( org ) { 
-              org.init();
-            } 
-          }
-        }
-      ]);
-
-    }
-    
-
-  }
 
 };
 
