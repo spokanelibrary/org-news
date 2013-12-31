@@ -22,6 +22,7 @@ var org = {
 , initMailgun: function() {
 		$form = $('form.spl-news');
 		$form.validate();		
+		console.log($form);
 		//$form.validate();
 		//console.log('validate');
   } // initValues()
