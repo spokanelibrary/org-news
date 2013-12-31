@@ -1,4 +1,4 @@
-// account.js
+// mailgun.js
 
 var org = {
 
@@ -15,14 +15,15 @@ var org = {
 		_self = this;
 
 		// init ui
-		this.initNews();
+		this.initMailgun();
 
 	} // init()
 
-, initNews: function() {
-		
+, initMailgun: function() {
+		$form = $('form.spl-news');
+		$form.validate();		
 		//$form.validate();
-		console.log('validate');
+		//console.log('validate');
   } // initValues()
 
 };

@@ -32,7 +32,7 @@ var ORG = {
 
       Modernizr.load([
         {
-          load: [config.path.absolute+'/assets/js/org/news.js' ],
+          load: [config.path.absolute+'/assets/js/org/mailgun.js' ],
           complete: function () {
             if ( org ) { 
               org.init();
