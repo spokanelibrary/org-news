@@ -19,7 +19,7 @@ Template Name: - Home Page
   </div>
 
   <p>
-    <a href="/subscribe/">Sign me up for Library news</a>
+    <a href="/subscribe/">Sign me up for Library news &rarr;</a>
   </p>
 </div>
 <?php get_template_part('templates/content', 'page'); ?>
