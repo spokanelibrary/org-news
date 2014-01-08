@@ -6,7 +6,7 @@ Template Name: - Home Page
 
 <?php get_template_part('templates/page', 'header'); ?>
 
-<div class="pull-left" style="padding: 0 20px 0;">
+<div class="pull-left" style="padding: 0 20px 0 0;">
   <div class="alert alert-success">
 
     <p class="lead">
