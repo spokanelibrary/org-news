@@ -17,10 +17,11 @@ Template Name: - Home Page
     <hr>
     <?php echo do_shortcode('[spl_mailgun_current title="Read all about it &rarr;" class="btn btn-block btn-success"]'); ?>
   </div>
-
+  <!--
   <p>
     <a href="/subscribe/">Sign me up for Library news &rarr;</a>
   </p>
+  -->
 </div>
 <?php get_template_part('templates/content', 'page'); ?>
 
