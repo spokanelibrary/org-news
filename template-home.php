@@ -15,7 +15,7 @@ Template Name: - Home Page
 
     <?php echo do_shortcode('[spl_mailgun_current format=toc]'); ?>
     <hr>
-    <?php echo do_shortcode('[spl_mailgun_current title="Read all about it &rarr;" class="btn btn-block btn-primary"]'); ?>
+    <?php echo do_shortcode('[spl_mailgun_current title="Read all about it &rarr;" class="btn btn-block btn-success"]'); ?>
   </div>
 </div>
 <?php get_template_part('templates/content', 'page'); ?>
