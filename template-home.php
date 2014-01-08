@@ -18,7 +18,7 @@ Template Name: - Home Page
   
   <div class="col-sm-6">
     <div class="alert alert-success">
-      <?php echo do_shortcode('spl_mailgun_current'); ?>
+      <?php echo do_shortcode('[spl_mailgun_current]'); ?>
     </div>
   </div><!-- /.col -->
 
