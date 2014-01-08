@@ -4,10 +4,11 @@
   </h1>
 </div>
 
-This is some intro material
+<p>
+This is some introductory material.
+</p>
 
 <hr>
-
 <?php while (have_posts()) : the_post(); ?>
 <article <?php post_class(); ?>>
   <header>
