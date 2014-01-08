@@ -9,7 +9,7 @@ Template Name: - Home Page
 <div class="pull-left" style="padding-right: 20px;">
   <div class="alert alert-success">
     <p class="lead">
-      Current Edition
+      In the current edition
     </p>
     <?php echo do_shortcode('[spl_mailgun_current]'); ?>
   </div>
