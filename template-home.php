@@ -4,6 +4,10 @@ Template Name: - Home Page
 */
 ?>
 
+<p>
+  <img class="img-responsive" src="/assets/img/jpg/promo-foundation.jpg" >
+</p>
+
 <?php get_template_part('templates/page', 'header'); ?>
 
 <div class="row">
@@ -13,11 +17,10 @@ Template Name: - Home Page
   </div><!-- /.col -->
   
   <div class="col-sm-6">
+    
 
-    <div class="alert alert-success">
-      <?php do_shortcode('spl_mailgun_current'); ?>
-    </div>
     
   </div><!-- /.col -->
 
 </div><!-- /.row -->
+
