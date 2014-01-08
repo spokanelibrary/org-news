@@ -1,5 +1,10 @@
-These are the newsletter archives.
+<div class="page-header">
+  <h1>
+    Newsletter Archives
+  </h1>
+</div>
 
+This is some intro material
 
 <?php while (have_posts()) : the_post(); ?>
 <article <?php post_class(); ?>>
