@@ -13,18 +13,8 @@ Template Name: - Home Page
       In the current edition:
     </p>
 
-    <h4>
-      <?php echo do_shortcode('[spl_mailgun_current]'); ?>
-    </h4>
+    <?php echo do_shortcode('[spl_mailgun_current format=toc]'); ?>
 
-    <p>
-      <?php echo do_shortcode('[spl_mailgun_current format=toc]'); ?>
-    </p>
-
-    <p>
-      Also in this edition&hellip;
-    </p>
-  
   </div>
 </div>
 <?php get_template_part('templates/content', 'page'); ?>
