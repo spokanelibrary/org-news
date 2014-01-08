@@ -1,9 +1,6 @@
 These are the newsletter archives.
 
 
-<?php get_template_part('templates/page', 'header'); ?>
-
-
 <?php while (have_posts()) : the_post(); ?>
 <article <?php post_class(); ?>>
   <header>
