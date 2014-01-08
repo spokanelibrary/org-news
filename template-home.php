@@ -13,7 +13,7 @@ Template Name: - Home Page
       In the current edition:
     </p>
 
-    <?php echo do_shortcode('[spl_mailgun_current format=toc link_posts=true]'); ?>
+    <?php echo do_shortcode('[spl_mailgun_current format=toc]'); ?>
     <hr>
     <?php echo do_shortcode('[spl_mailgun_current title="Read all about it &rarr;" class="btn btn-block btn-primary"]'); ?>
   </div>
