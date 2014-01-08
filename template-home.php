@@ -14,8 +14,10 @@ Template Name: - Home Page
     </p>
 
     <?php echo do_shortcode('[spl_mailgun_current format=toc]'); ?>
-    <?php echo do_shortcode('[spl_mailgun_current title="Read all about it &rarr;" class="btn btn-block btn-primary"]'); ?>
 
+    <p>
+    <?php echo do_shortcode('[spl_mailgun_current title="Read all about it &rarr;" class="btn btn-block btn-primary"]'); ?>
+    </p>
   </div>
 </div>
 <?php get_template_part('templates/content', 'page'); ?>
