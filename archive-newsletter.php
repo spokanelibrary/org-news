@@ -21,10 +21,9 @@ This is some intro material
     </h2>
   </header>
   <div class="entry-summary">
-  	<div class="alert alert-success pull-left">
-    
-    </div>
-    <?php the_excerpt(); ?>
+  	<blockquote>
+  	  <?php the_excerpt(); ?>
+	  </blockquote>
   </div>
 </article>
 <?php endwhile; ?>
