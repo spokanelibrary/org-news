@@ -11,7 +11,7 @@ Template Name: - Home Page
     <p class="lead">
       In the current edition:
     </p>
-    <?php echo do_shortcode('[spl_mailgun_current]'); ?>
+    <?php echo do_shortcode('[spl_mailgun_current class=btn btn-block]'); ?>
     <p>
       Also in this edition&hellip;
     </p>
