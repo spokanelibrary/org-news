@@ -14,7 +14,7 @@ This is some introductory material.
   <header>
     <h2 class="entry-title">
     	<a href="<?php the_permalink(); ?>">
-    		<time class="published" datetime="<?php echo get_the_time('c'); ?>"><?php echo get_the_date(); ?></time>
+    		<time class="published" datetime="<?php echo get_the_time('F, Y'); ?>"><?php echo get_the_date(); ?></time>
     	</a>
     	<small>
     		<?php the_title(); ?>
