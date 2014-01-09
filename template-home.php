@@ -21,7 +21,15 @@ Template Name: - Home Page
 
 <div clas="row">
   <div class="col-md-4">
-    <div class="alert alert-success" style="margin-top:10px;">
+  </div>
+  <div class="col-md-8">
+    <p class="lead text-center"><a href="/subscribe/">Sign me up for Library News →</a></p>
+  </div>
+</div>
+
+<div clas="row">
+  <div class="col-md-4">
+    <div class="alert alert-success">
 
       <p class="lead">
         In the current edition:
@@ -33,8 +41,6 @@ Template Name: - Home Page
     </div>
   </div>
   <div class="col-md-8">
-    <p class="lead text-center"><a href="/subscribe/">Sign me up for Library News →</a></p>
-
     <?php get_template_part('templates/content', 'page'); ?>
   </div>
 </div>
