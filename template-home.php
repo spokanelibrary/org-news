@@ -13,7 +13,7 @@ Template Name: - Home Page
 
 <div clas="row">
   <div class="col-md-4">
-    <div class="alert alert-success" style="margin-top:20px;">
+    <div class="alert alert-success" style="margin-top:10px;">
 
       <p class="lead">
         In the current edition:
