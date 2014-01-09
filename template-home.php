@@ -4,7 +4,15 @@ Template Name: - Home Page
 */
 ?>
 
-<?php get_template_part('templates/page', 'header'); ?>
+<?php //get_template_part('templates/page', 'header'); ?>
+
+<div class="page-header">
+    <h1>
+      News &amp; new ideas
+      <small>from your local Library</small>
+    </h1>
+    <?php// get_template_part('templates/entry-meta'); ?>
+  </div>
 
 <h3 style="margin-top:0;">
   Library News 
@@ -25,7 +33,7 @@ Template Name: - Home Page
     </div>
   </div>
   <div class="col-md-8">
-    <p class="lead text-center"><a href="/subscribe/">Sign me up for Library news →</a></p>
+    <p class="lead text-center"><a href="/subscribe/">Sign me up for Library News →</a></p>
 
     <?php get_template_part('templates/content', 'page'); ?>
   </div>
