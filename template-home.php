@@ -23,7 +23,7 @@ Template Name: - Home Page
   Read it here, or have the news delivered to your inbox.
 </p>
 
-<div clas="row">
+<div class="row">
   <div class="col-md-4">
     <p>
       We will <a title="Your Privacy, Our Promise" href="http://news.spokanelibrary.org/privacy/">never share your email address</a> with a third party.
