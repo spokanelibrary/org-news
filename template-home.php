@@ -43,7 +43,7 @@ Template Name: - Home Page
     </div>
   </div>
   <div class="col-md-8">
-    <strong style="text-muted">
+    <strong class="text-muted">
     Read it here or have the news delivered to your inbox.
     </strong>
     <p class="lead text-center">
