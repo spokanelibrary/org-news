@@ -25,9 +25,9 @@ Template Name: - Home Page
 
 <div class="row">
   <div class="col-md-4">
-    <p>
+    <small>
       We will <a title="Your Privacy, Our Promise" href="http://news.spokanelibrary.org/privacy/">never share your email address</a> with a third party.
-    </p>
+    </small>
   </div>
   <div class="col-md-8">
     <p class="lead"><a href="/subscribe/">Sign me up for Library News →</a></p>
