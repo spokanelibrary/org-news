@@ -1,6 +1,6 @@
 <div class="page-header">
   <h1>
-    Library Newsletter 
+    Library News 
     <small>Archive Editions</small>
   </h1>
 </div>
