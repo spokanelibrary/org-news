@@ -47,7 +47,10 @@ Template Name: - Home Page
     Read it here or have the news delivered to your inbox.
     </strong>
     <p>
-      <a class="btn btn-block btn-primary" href="/subscribe/">Sign me up for Library News →</a>
+      <a class="btn btn-block btn-primary" href="/subscribe/">
+        <small class="glyphicon glyphicon-envelope"></small>
+        Sign me up for Library News →
+      </a>
     </p>
     <?php get_template_part('templates/content', 'page'); ?>
   </div>
