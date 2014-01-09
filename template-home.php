@@ -30,7 +30,7 @@ Template Name: - Home Page
 
 <div clas="row">
   <div class="col-md-4">
-    <div class="alert alert-success">
+    <div class="alert alert-warning">
 
       <p class="lead">
         <small class="glyphicon glyphicon-bullhorn"></small>
