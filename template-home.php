@@ -6,8 +6,10 @@ Template Name: - Home Page
 
 <?php get_template_part('templates/page', 'header'); ?>
 
+<h3>Library News <small>published monthly, with occasional special editions</small></h3>
+
 <div clas="row">
-  <div class="col-md-4" style="padding-top: 30px">
+  <div class="col-md-4" style="">
     <div class="alert alert-success">
 
       <p class="lead">
