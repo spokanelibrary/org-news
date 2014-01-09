@@ -20,11 +20,11 @@ Template Name: - Home Page
 </h3>
 
 <div class="row">
-  <div class="col-md-6">
-    Read it here, or have the news delivered to your inbox.
+  <div class="col-md-4">
+    
   </div>
-  <div class="col-md-6">
-    <p class="lead"><a href="/subscribe/">Sign me up for Library News →</a></p>
+  <div class="col-md-8">
+    
   </div>
 </div>
 
@@ -42,6 +42,12 @@ Template Name: - Home Page
     </div>
   </div>
   <div class="col-md-8">
+    <p>
+    Read it here, or have the news delivered to your inbox.
+    </p>
+    <p class="lead">
+      <a href="/subscribe/">Sign me up for Library News →</a>
+    </p>
     <?php get_template_part('templates/content', 'page'); ?>
   </div>
 </div>
