@@ -19,15 +19,9 @@ Template Name: - Home Page
   <small></small>
 </h3>
 
-<p>
-  Read it here, or have the news delivered to your inbox.
-</p>
-
 <div class="row">
   <div class="col-md-4">
-    <small>
-      We will <a title="Your Privacy, Our Promise" href="http://news.spokanelibrary.org/privacy/">never share your email address</a> with a third party.
-    </small>
+    Read it here, or have the news delivered to your inbox.
   </div>
   <div class="col-md-8">
     <p class="lead"><a href="/subscribe/">Sign me up for Library News →</a></p>
