@@ -23,7 +23,7 @@ Template Name: - Home Page
   <div class="col-md-4">
   </div>
   <div class="col-md-8">
-    <p class="lead text-center"><a href="/subscribe/">Sign me up for Library News →</a></p>
+    <p class="lead"><a href="/subscribe/">Sign me up for Library News →</a></p>
   </div>
 </div>
 
