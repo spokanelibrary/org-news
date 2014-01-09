@@ -29,7 +29,7 @@ Template Name: - Home Page
 </div>
 
 <div clas="row">
-  <div class="col-md-4">
+  <div class="col-md-5">
     <div class="alert alert-warning" style="border-left-width:4px;">
 
       <p class="lead">
@@ -42,7 +42,7 @@ Template Name: - Home Page
       <?php echo do_shortcode('[spl_mailgun_current title="Read the latest newsletter &rarr;" class="btn btn-block btn-warning"]'); ?>
     </div>
   </div>
-  <div class="col-md-8">
+  <div class="col-md-7">
     <strong>
     Read it here, or have the news delivered to your inbox.
     </strong>
