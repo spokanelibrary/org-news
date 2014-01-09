@@ -43,8 +43,8 @@ Template Name: - Home Page
     </div>
   </div>
   <div class="col-md-8">
-    <strong>
-    Read it here, or have the news delivered to your inbox.
+    <strong style="text-muted">
+    Read it here or have the news delivered to your inbox.
     </strong>
     <p class="lead text-center">
       <a href="/subscribe/">Sign me up for Library News →</a>
