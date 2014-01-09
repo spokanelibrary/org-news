@@ -46,7 +46,7 @@ Template Name: - Home Page
     <strong class="text-muted">
     Read it here or have the news delivered to your inbox.
     </strong>
-    <p class="lead text-center">
+    <p class="lead">
       <a href="/subscribe/">Sign me up for Library News →</a>
     </p>
     <?php get_template_part('templates/content', 'page'); ?>
