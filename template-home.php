@@ -33,6 +33,7 @@ Template Name: - Home Page
     <div class="alert alert-success">
 
       <p class="lead">
+        <small class="glyphicon glyphicon-bullhorn"></small>
         In the current edition:
       </p>
 
