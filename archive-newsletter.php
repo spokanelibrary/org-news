@@ -9,7 +9,6 @@
 This is some introductory material.
 </p>
 
-<hr>
 <?php while (have_posts()) : the_post(); ?>
 <article <?php post_class(); ?>>
   <header>
