@@ -29,12 +29,12 @@ Template Name: - Home Page
 </div>
 
 <div clas="row">
-  <div class="col-md-5">
+  <div class="col-md-4">
     <div class="alert alert-warning" style="border-left-width:4px;">
 
       <p class="lead">
         <small class="glyphicon glyphicon-bullhorn"></small>
-        In the current edition:
+        In the current edition
       </p>
 
       <?php echo do_shortcode('[spl_mailgun_current format=toc]'); ?>
@@ -42,7 +42,7 @@ Template Name: - Home Page
       <?php echo do_shortcode('[spl_mailgun_current title="Read the latest newsletter &rarr;" class="btn btn-block btn-warning"]'); ?>
     </div>
   </div>
-  <div class="col-md-7">
+  <div class="col-md-8">
     <strong>
     Read it here, or have the news delivered to your inbox.
     </strong>
