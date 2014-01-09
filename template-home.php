@@ -39,7 +39,7 @@ Template Name: - Home Page
 
       <?php echo do_shortcode('[spl_mailgun_current format=toc]'); ?>
       <hr>
-      <?php echo do_shortcode('[spl_mailgun_current link_posts title="Read the current newsletter &rarr;" class="btn btn-block btn-warning"]'); ?>
+      <?php echo do_shortcode('[spl_mailgun_current link_posts=true title="Read the current newsletter &rarr;" class="btn btn-block btn-warning"]'); ?>
     </div>
   </div>
   <div class="col-md-8">
