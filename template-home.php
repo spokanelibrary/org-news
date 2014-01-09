@@ -4,8 +4,8 @@ Template Name: - Home Page
 */
 ?>
 
-<?php //get_template_part('templates/page', 'header'); ?>
-
+<?php get_template_part('templates/page', 'header'); ?>
+<!--
 <div class="page-header">
     <h1>
       News &amp; new ideas
@@ -13,7 +13,7 @@ Template Name: - Home Page
     </h1>
     <?php// get_template_part('templates/entry-meta'); ?>
   </div>
-
+-->
 <h3 class="text-success" style="margin-top:0;">
   Published monthly, with occasional special editions
   <small></small>
