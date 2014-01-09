@@ -12,8 +12,8 @@ Template Name: - Home Page
 </h3>
 
 <div clas="row">
-  <div class="col-md-4" style="">
-    <div class="alert alert-success">
+  <div class="col-md-4">
+    <div class="alert alert-success" style="margin-top:20px;">
 
       <p class="lead">
         In the current edition:
