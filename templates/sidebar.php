@@ -2,7 +2,7 @@
 
   <p class="lead">
     <small class="glyphicon glyphicon-bullhorn"></small>
-    In the current edition
+    In the current issue
   </p>
 
   <?php echo do_shortcode('[spl_mailgun_current format=toc link_posts=true]'); ?>
