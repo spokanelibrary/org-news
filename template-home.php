@@ -34,14 +34,16 @@ Template Name: - Home Page
     </div>
   </div>
   <div class="col-md-8">
-    <div class="panel panel-primary">
+    <div class="panel panel-default">
       <div class="panel-heading">
-        Read it here or have the news delivered to your inbox.
-        </div>
+        <span class="text-muted">
+          <small class="glyphicon glyphicon-envelope"></small>
+          Read it here or have the news delivered to your inbox.
+        </span>
+      </div>
       <div class="panel-body">
         <p>
           <a class="btn btn-block btn-primary" href="/subscribe/">
-            <small class="glyphicon glyphicon-envelope"></small>
             Sign me up for Library News →
           </a>
         </p>
