@@ -36,10 +36,10 @@ Template Name: - Home Page
   <div class="col-md-8">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <span class="text-muted">
+        <p class="text-muted lead">
           <small class="glyphicon glyphicon-envelope"></small>
-          <strong>Read it here or have the news delivered to your inbox.</strong>
-        </span>
+          Read it here or have the news delivered to your inbox.
+        </p>
       </div>
       <div class="panel-body">
         <p>
