@@ -47,9 +47,12 @@ Template Name: - Home Page
             Sign me up for Library News →
           </a>
         </p>
+
+        <?php get_template_part('templates/content', 'page'); ?>
+        
       </div>
     </div>
-    <?php get_template_part('templates/content', 'page'); ?>
+    
   </div>
 </div>
 
