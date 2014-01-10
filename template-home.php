@@ -36,9 +36,9 @@ Template Name: - Home Page
   <div class="col-md-8">
     <div class="panel panel-default">
       <div class="panel-body">
-        <strong class="text-muted">
+        <p class="text-muted text-centered">
         Read it here or have the news delivered to your inbox.
-        </strong>
+        </p>
         <p>
           <a class="btn btn-block btn-primary" href="/subscribe/">
             <small class="glyphicon glyphicon-envelope"></small>
