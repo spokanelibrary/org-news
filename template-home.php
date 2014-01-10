@@ -44,6 +44,7 @@ Template Name: - Home Page
       <div class="panel-body">
         <p>
           <a class="btn btn-block btn-primary" href="/subscribe/">
+            <strong>Yes!</strong>
             Sign me up for Library News →
           </a>
         </p>
