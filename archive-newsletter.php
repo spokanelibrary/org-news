@@ -1,7 +1,7 @@
 <div class="page-header">
   <h1>
     Library News 
-    <small>Archived Issues</small>
+    <small>Past Issues</small>
   </h1>
 </div>
 
