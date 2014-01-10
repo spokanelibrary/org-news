@@ -38,7 +38,7 @@ Template Name: - Home Page
       <div class="panel-heading">
         <p class="text-muted lead" style="margin:0; padding:0;">
           <small class="glyphicon glyphicon-envelope"></small>
-          Get the news delivered to your inbox
+          Stay in touch: news delivered to your inbox
         </p>
       </div>
       <div class="panel-body">
