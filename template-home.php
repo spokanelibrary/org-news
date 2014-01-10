@@ -34,7 +34,7 @@ Template Name: - Home Page
     </div>
   </div>
   <div class="col-md-8">
-    <div class="panel panel-success">
+    <div class="panel panel-warning">
       <div class="panel-heading">
         Read it here or have the news delivered to your inbox.
         </div>
