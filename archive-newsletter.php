@@ -6,7 +6,7 @@
 </div>
 
 <p>
-This is some introductory material.
+  Past issues of Library News prior to 2014 are available <a title="Archived Issues" href="/archive">in our archive</a>.
 </p>
 
 <?php while (have_posts()) : the_post(); ?>
