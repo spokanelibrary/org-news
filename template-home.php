@@ -19,18 +19,9 @@ Template Name: - Home Page
   <small></small>
 </h3>
 
-<div class="row">
-  <div class="col-md-4">
-    
-  </div>
-  <div class="col-md-8">
-    
-  </div>
-</div>
-
 <div clas="row">
   <div class="col-md-4">
-    <div class="alert alert-warning" style="border-left-width:4px; margin-top:25px;">
+    <div class="alert alert-warning" style="border-left-width:4px;">
 
       <p class="lead">
         <small class="glyphicon glyphicon-bullhorn"></small>
@@ -43,18 +34,23 @@ Template Name: - Home Page
     </div>
   </div>
   <div class="col-md-8">
-    <strong class="text-muted">
-    Read it here or have the news delivered to your inbox.
-    </strong>
-    <p>
-      <a class="btn btn-block btn-primary" href="/subscribe/">
-        <small class="glyphicon glyphicon-envelope"></small>
-        Sign me up for Library News →
-      </a>
-    </p>
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <strong class="text-muted">
+        Read it here or have the news delivered to your inbox.
+        </strong>
+        <p>
+          <a class="btn btn-block btn-primary" href="/subscribe/">
+            <small class="glyphicon glyphicon-envelope"></small>
+            Sign me up for Library News →
+          </a>
+        </p>
+      </div>
+    </div>
     <?php get_template_part('templates/content', 'page'); ?>
   </div>
 </div>
+
 
 
 
