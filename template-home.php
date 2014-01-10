@@ -15,7 +15,7 @@ Template Name: - Home Page
   </div>
 -->
 <h3 class="text-success" style="margin-top:0;">
-  <strong>Library News:</strong> published monthly, with occasional special editions
+  Published monthly, with occasional special editions
   <small></small>
 </h3>
 
