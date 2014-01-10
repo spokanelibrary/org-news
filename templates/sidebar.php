@@ -5,7 +5,7 @@
     In the current edition
   </p>
 
-  <?php echo do_shortcode('[spl_mailgun_current format=toc]'); ?>
+  <?php echo do_shortcode('[spl_mailgun_current format=toc link_posts=true]'); ?>
   <hr>
   <?php echo do_shortcode('[spl_mailgun_current title="Read the current newsletter &rarr;" class="btn btn-block btn-warning"]'); ?>
 
