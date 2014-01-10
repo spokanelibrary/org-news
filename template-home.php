@@ -34,7 +34,7 @@ Template Name: - Home Page
     </div>
   </div>
   <div class="col-md-8">
-    <div class="panel panel-primary">
+    <div class="panel panel-default">
       <div class="panel-heading">
         <p class="text-muted lead" style="margin:0; padding:0;">
           <small class="glyphicon glyphicon-envelope"></small>
