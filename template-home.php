@@ -35,10 +35,10 @@ Template Name: - Home Page
   </div>
   <div class="col-md-8">
     <div class="panel panel-default">
-      <div class="panel-body">
-        <p class="text-muted text-centered">
+      <div class="panel-heading">
         Read it here or have the news delivered to your inbox.
-        </p>
+        </div>
+      <div class="panel-body">
         <p>
           <a class="btn btn-block btn-primary" href="/subscribe/">
             <small class="glyphicon glyphicon-envelope"></small>
