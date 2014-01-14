@@ -38,7 +38,7 @@ Template Name: - Home Page
       <div class="panel-heading">
         <p class="text-muted lead" style="margin:0; padding:0;">
           <small class="glyphicon glyphicon-envelope"></small>
-          Stay in touch: News delivered to your inbox
+          Stay in touch: Library News delivered to your inbox
         </p>
       </div>
       <div class="panel-body">
@@ -49,7 +49,7 @@ Template Name: - Home Page
         </p>
 
         <?php get_template_part('templates/content', 'page'); ?>
-        
+
       </div>
     </div>
     
