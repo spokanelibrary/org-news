@@ -41,9 +41,12 @@ add_filter( 'the_content','bootstrap_responsive_images',10 );
 add_filter( 'post_thumbnail_html', 'bootstrap_responsive_images', 10 );
 
 function more_tag_to_clearfix ( $html ) {
-  return str_ireplace('<!--more-->', '<div class="clearfix"></div>', $html);
+  //return str_ireplace('<!--more-->', '<div class="clearfix"></div>', $html);
+  $myMarkup = "my markup here<br>";
+  $html = preg_replace('/<span id\=\"(more\-\d+)"><\/span>/', '<span id="\1"></span>'."\n\n". $myMarkup ."\n\n", $html);
+  return $html;
 }
-add_filter( 'the_content','more_tag_to_clearfix',10 );
+add_filter( 'the_content','more_tag_to_clearfix',1 );
 
 
 function spl_tutorial($params) {  
