@@ -34,11 +34,11 @@ function bootstrap_responsive_images( $html ){
     $html = preg_replace('/(<img.*?)(\/>)/', '$1 class="' . $classes . '" $2', $html);
   }
   // remove dimensions from images,, does not need it!
-  $html = preg_replace( '/(width|height)=\"\d*\"\s/', "", $html );
+  //$html = preg_replace( '/(width|height)=\"\d*\"\s/', "", $html );
   return $html;
 }
-//add_filter( 'the_content','bootstrap_responsive_images',10 );
-//add_filter( 'post_thumbnail_html', 'bootstrap_responsive_images', 10 );
+add_filter( 'the_content','bootstrap_responsive_images',10 );
+add_filter( 'post_thumbnail_html', 'bootstrap_responsive_images', 10 );
 
 function more_tag_to_clearfix ( $html ) {
   //return str_ireplace('<!--more-->', '<div class="clearfix"></div>', $html);
