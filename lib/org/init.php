@@ -46,7 +46,7 @@ function more_tag_to_clearfix ( $html ) {
   $html = preg_replace('/<span id\=\"(more\-\d+)"><\/span>/', $myMarkup ."\n\n", $html);
   return $html;
 }
-add_filter( 'the_content','more_tag_to_clearfix',1 );
+add_filter( 'the_content','more_tag_to_clearfix',10 );
 
 
 function spl_tutorial($params) {  
