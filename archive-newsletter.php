@@ -30,7 +30,7 @@
         <time class="published" datetime="<?php echo get_the_time('c'); ?>"><?php echo get_the_date('F, Y'); ?></time>
       </small>
       <br>
-      <a href="<?php the_permalink(); ?>">
+      <a class="text-success" href="<?php the_permalink(); ?>">
         <?php the_title(); ?>
       </a>
     </h2>
