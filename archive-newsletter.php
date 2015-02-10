@@ -49,6 +49,11 @@
 
 <?php endwhile; ?>
 
-<ul class="nav nav-pills nav-stacked">
-  <?php //wp_get_archives(array('type'=>'postbypost','before'=>'<h3 class="">','after'=>' <small>&rarr;</small></h3>')); ?>
-</ul>
+<?php if ($wp_query->max_num_pages > 1) : ?>
+  <nav class="post-nav">
+    <ul class="pager">
+      <li class="previous"><?php next_posts_link(__('&larr; Older posts', 'roots')); ?></li>
+      <li class="next"><?php previous_posts_link(__('Newer posts &rarr;', 'roots')); ?></li>
+    </ul>
+  </nav>
+<?php endif; ?>
