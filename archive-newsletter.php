@@ -48,3 +48,7 @@
 </footer>
 
 <?php endwhile; ?>
+
+<ul class="nav nav-pills nav-stacked">
+          <?php wp_get_archives(array('type'=>'postbypost','before'=>'<h3 class="">','after'=>' <small>&rarr;</small></h3>')); ?>
+        </ul>
