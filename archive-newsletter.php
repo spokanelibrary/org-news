@@ -44,11 +44,11 @@
 </article>
 
 <footer>
-  <?php wp_link_pages(array('before' => '<nav class="page-nav"><p>' . __('Pages:', 'roots'), 'after' => '</p></nav>')); ?>
+  <?php //wp_link_pages(array('before' => '<nav class="page-nav"><p>' . __('Pages:', 'roots'), 'after' => '</p></nav>')); ?>
 </footer>
 
 <?php endwhile; ?>
 
 <ul class="nav nav-pills nav-stacked">
-          <?php wp_get_archives(array('type'=>'postbypost','before'=>'<h3 class="">','after'=>' <small>&rarr;</small></h3>')); ?>
-        </ul>
+  <?php //wp_get_archives(array('type'=>'postbypost','before'=>'<h3 class="">','after'=>' <small>&rarr;</small></h3>')); ?>
+</ul>
